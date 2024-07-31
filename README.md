@@ -1,4 +1,4 @@
-#Welcome. I created this local git (version control system) to track code changes, staging and commit. At the end of this exercise i will push from local to central GitHub repository.
+#Welcome. I used my MacBook Pro as a local git repository using Git Bash (version control system) to track code changes, staging and commit. At the end of this exercise i will push from local to central GitHub repository.
 
 #1. Launched a virtual server (Ubuntu) and updated it.
 
